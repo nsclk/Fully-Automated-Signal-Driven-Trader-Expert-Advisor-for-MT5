@@ -87,14 +87,6 @@ Every trading day at a specified time, the EA closes existing positions, deletes
 
 ---
 
-## Disclaimer
-
-This project is for educational and research purposes.  
-Live trading involves significant risk. **Test thoroughly with a demo account before deploying to a live environment.**  
-The authors are not responsible for any financial losses.
-
----
-
 ## License
 
 MIT License
@@ -103,8 +95,7 @@ MIT License
 
 ## Author
 
-- Developed by [Your Name Here]
-- Contributions and suggestions welcome!
+- Developed by [Enes Celik]
 
 ---
 
